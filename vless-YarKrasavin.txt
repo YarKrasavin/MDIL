@@ -2,4 +2,3 @@
 #profile-update-interval: 20
 #subscription-userinfo: upload=0; download=0; total=0; expire=1774024800
 
-vless://f618ea8d-97dd-4911-ad94-0156860dfab2@85.192.30.40:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=vk.com&fp=chrome&pbk=kEDOcu8tDvr-g_sKLY2QghOpLEGTvllxGPZFxMAmwkI&sid=d2ef84ddcbf477eb#%23M%20VPN%20%28yarkrasavin%29%20%5BVLESS%20-%20tcp%5D
