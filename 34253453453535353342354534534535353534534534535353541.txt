@@ -1,7 +1,7 @@
 #profile-title: #M VPN TEST
+#announce: base64:4o+z0JHQtdGC0LAg0YLQtdGB0YLij7M=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=1774212900
-#announce: base64:4o+z0JHQtdGC0LAg0YLQtdGB0YLij7M=
 
 vless://f4ad1a0b-8ce2-43cf-8227-74a629aa38d5@85.192.30.40:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=milandur.ru&fp=chrome&pbk=kEDOcu8tDvr-g_sKLY2QghOpLEGTvllxGPZFxMAmwkI&sid=d2ef84ddcbf477eb#%5BVLESS%20-%20tcp%5D
 vless://a22f6494-f371-07d0-bad0-8df9594b8e45@5.188.140.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=anti-vpn.ru&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20-%20%231
