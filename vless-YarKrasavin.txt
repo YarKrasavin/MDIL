@@ -2,4 +2,4 @@
 #profile-update-interval: 20
 #subscription-userinfo: upload=0; download=0; total=0; expire=1774024800
 
-vless://0@0.0.0.0:0000?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality#THE END
+vless://0@0.0.0.0:1111?security=reality&type=tcp&headerType=&path=&host=&sni=ya.ru&fp=chrome#Subscription%20has%20expired
