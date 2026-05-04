@@ -1,6 +1,6 @@
 #profile-title: #M VPN TEST
 #announce: base64:4o+z0JHQtdGC0LAg0YLQtdGB0YLij7M=
-#providerid: 94Xi6WvW
+#providerid:
 #profile-update-interval: 1
 #subscription-userinfo: expire=1774212900
 
