@@ -3,37 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Base64 Encoder</title>
-    <!-- <style>
-        body {
-            font-family: sans-serif;
-            display: flex;
-            justify-content: center;
-            align-content: center;
-            height: 100vh;
-            background-color: #f4f4f9;
-        }
-        .container {
-            text-align: center;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background: white;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            margin-top: 50px;
-        }
-        #output {
-            font-weight: bold;
-            color: #d32f2f;
-            word-break: break-all;
-        }
-    </style> -->
 </head>
 <body>
 
 <div class="container">
-    <!-- <h2>Результат шифрования:</h2> -->
     <p id="output">
-#profile-title: #M DIL TSTSSS
+#profile-title: #M DIL
 #announce: base64:0LTQsCDQtNCwINGC0LXRgdGCINC/0YDQvtCy0LXRgNGOIA==
 #providerid: 
 #profile-update-interval: 1
@@ -52,15 +27,12 @@ vless://93ea6cff-b0eb-4caf-ac6f-210750eea123@85.192.30.40:2?security=reality&typ
 
 <script>
     window.onload = function() {
-        // 1. Находим элемент с текстом
+
         const element = document.getElementById('output');
         const originalText = element.innerText;
 
-        // 2. Кодируем текст в Base64
-        // btoa() работает с латиницей. Для поддержки кириллицы используем связку с encodeURIComponent
         const encodedText = btoa(unescape(encodeURIComponent(originalText)));
 
-        // 3. Выводим зашифрованный результат на экран
         element.innerText = encodedText;
     };
 </script>
